@@ -1,0 +1,15 @@
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\bin\Debug\net6.0\Bridge_Pattern.exe
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\bin\Debug\net6.0\Bridge_Pattern.deps.json
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\bin\Debug\net6.0\Bridge_Pattern.runtimeconfig.json
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\bin\Debug\net6.0\Bridge_Pattern.dll
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\bin\Debug\net6.0\Bridge_Pattern.pdb
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.csproj.AssemblyReference.cache
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.AssemblyInfoInputs.cache
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.AssemblyInfo.cs
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.dll
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\refint\Bridge_Pattern.dll
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.pdb
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\Bridge_Pattern.genruntimeconfig.cache
+C:\Users\Ertan\Desktop\Bridge_Pattern\Bridge_Pattern\obj\Debug\net6.0\ref\Bridge_Pattern.dll
