@@ -1,0 +1,15 @@
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\bin\Debug\net6.0\Interpreter_Pattern.exe
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\bin\Debug\net6.0\Interpreter_Pattern.deps.json
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\bin\Debug\net6.0\Interpreter_Pattern.runtimeconfig.json
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\bin\Debug\net6.0\Interpreter_Pattern.dll
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\bin\Debug\net6.0\Interpreter_Pattern.pdb
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.csproj.AssemblyReference.cache
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.AssemblyInfoInputs.cache
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.AssemblyInfo.cs
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.dll
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\refint\Interpreter_Pattern.dll
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.pdb
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\Interpreter_Pattern.genruntimeconfig.cache
+C:\Users\Ertan\Desktop\Interpreter_Pattern\Interpreter_Pattern\obj\Debug\net6.0\ref\Interpreter_Pattern.dll
